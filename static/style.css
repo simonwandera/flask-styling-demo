@@ -1,0 +1,10 @@
+.table-content{
+    border-collapse: collapse;
+    border: solid black;
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+.container{
+    background-color: brown;
+}
